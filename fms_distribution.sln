@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fms_distribution", "fms_distribution.vcxproj", "{AC9DAFF8-2825-473E-83A1-8DBFC1A61546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9DAFF8-2825-473E-83A1-8DBFC1A61546}.Debug|x64.ActiveCfg = Debug|x64
+		{AC9DAFF8-2825-473E-83A1-8DBFC1A61546}.Debug|x64.Build.0 = Debug|x64
+		{AC9DAFF8-2825-473E-83A1-8DBFC1A61546}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC9DAFF8-2825-473E-83A1-8DBFC1A61546}.Debug|x86.Build.0 = Debug|Win32
+		{AC9DAFF8-2825-473E-83A1-8DBFC1A61546}.Release|x64.ActiveCfg = Release|x64
+		{AC9DAFF8-2825-473E-83A1-8DBFC1A61546}.Release|x64.Build.0 = Release|x64
+		{AC9DAFF8-2825-473E-83A1-8DBFC1A61546}.Release|x86.ActiveCfg = Release|Win32
+		{AC9DAFF8-2825-473E-83A1-8DBFC1A61546}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B1EF764-5BE7-47E4-BA04-32EEC1E1F811}
+	EndGlobalSection
+EndGlobal
