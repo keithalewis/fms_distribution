@@ -2,7 +2,7 @@
 
 Probability distributions
 
-Every random variable, X, is determined by its _cumulative_distribution_function_. The function `cdf(x)` is the probability the random variable is less than `x`.
+Every random variable, X, is determined by its _cumulative_distribution_function_. The function `cdf(x)` is the probability the random variable is less than or equal to `x`.
 
 If a random variable takes on a finite or countable number of random variables it is _discrete_ and `pdf(x)` is the probability it takes on the value `x`. The function `is_discrete()` returns `true` and `domain()` returns the sequence of values it can take on.
 
